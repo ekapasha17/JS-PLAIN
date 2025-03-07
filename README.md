@@ -4,6 +4,7 @@ This project contains multiple **JavaScript functions** for basic math and strin
 each of the function is independen and can be used separately.
 
 ## **Project Structure**
+```sh
 /JS-Plain
 │── /function
  │ ├── rectangle_area.js # Calculates rectangle area 
