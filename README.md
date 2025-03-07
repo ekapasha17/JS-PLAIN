@@ -14,6 +14,7 @@ each of the function is independen and can be used separately.
  │ ├── get_initial.js # Extracts initials from a name 
 │── index.js # Main file to execute all functions
 │── README.md # Project documentation
+```
 
 ## **How to Use**
 ### **1. Install Node.js**
@@ -23,3 +24,4 @@ node -v
 clone this repo
 cd to the repo
 node index.js
+```
